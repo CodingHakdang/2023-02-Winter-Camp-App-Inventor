@@ -17,7 +17,7 @@
 
    [Feedback✍️](#feedback-%EF%B8%8F)
    
-   [Application📱](#application-📱)
+   [Application📱](#application-)
    
 </div>
 <br>
