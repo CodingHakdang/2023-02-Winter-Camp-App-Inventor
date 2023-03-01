@@ -33,7 +33,7 @@
 
 <br>
 
-## 아쉬운점
+## Feedback
 
 Loading...
 <br>
