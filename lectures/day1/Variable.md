@@ -19,7 +19,7 @@
 ## Event
 
 ```
-📡 Sensor Event
+⏹ Button Event
 ```
 
 > **입력 버튼을 눌렀을 때** \
