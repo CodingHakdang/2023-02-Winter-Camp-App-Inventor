@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day1/day1.md" target="_blank">1일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank">2일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank">3일차</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day1/day1.md">1일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#">2일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="#">3일차</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
