@@ -15,7 +15,7 @@
   
   [Summary📝](#summary)
     
-  [아쉬운점](#feedback)
+  [Feedback](#feedback)
 
   [Application📱](#application)
 
