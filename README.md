@@ -76,7 +76,6 @@
 
 <br>
 
-<br>
 
 ## Application 📱
 
