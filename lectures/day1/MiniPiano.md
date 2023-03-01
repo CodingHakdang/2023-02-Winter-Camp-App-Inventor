@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |   이름    |        링크        |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------: | :----------------: |
-| <img src="https://user-images.githubusercontent.com/79021544/220135937-292e22c7-5ff4-44a2-9480-1100f9c58bf1.png" width="100"> | MiniPiano | [MiniPiano.aia](#) |
+| <img src="https://user-images.githubusercontent.com/79021544/220135937-292e22c7-5ff4-44a2-9480-1100f9c58bf1.png" width="100"> | MiniPiano | [MiniPiano 파일 바로가기](#) |
 <br>
 
 ## 설계 목표
