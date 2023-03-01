@@ -13,16 +13,16 @@
 
 <div style="font-size:12px;">
   
-  [Summary📝](#summary)
-    
-  [Feedback](#feedback)
+   [Summary📝](#summary)
 
-  [Application📱](#application)
-
+   [Feedback✍️](#feedback)
+   
+   [Application📱](#application)
+   
 </div>
 <br>
 
-## Summary📝
+## Summary 📝
 
 **주제 : 앱인벤터 살펴보기 & 변수 배우기**
 **학습목표**
@@ -33,7 +33,7 @@
 
 <br>
 
-## Feedback
+## Feedback ✍️
 
 Loading...
 <br>
