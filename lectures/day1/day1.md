@@ -15,9 +15,9 @@
   
    [Summary📝](#summary-)
 
-   [Feedback✍️](#feedback-)
+   [Feedback✍️](#feedback-✍️)
    
-   [Application📱](#application-)
+   [Application📱](#application-📱)
    
 </div>
 <br>
