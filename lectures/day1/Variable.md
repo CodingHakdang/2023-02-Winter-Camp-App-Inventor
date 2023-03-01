@@ -2,7 +2,7 @@
 
 |    이미지                                                                                                                           |     이름     |  링크                 |
 | :---------------------------------------------------------------------------------------------------------------------------: | :------: | :---------------: |
-| <img src="https://user-images.githubusercontent.com/79021544/220135921-ff58a10b-e621-4d6a-9906-3598e07d9268.png" width="100"> | Variable | [Variable.aia](#) |
+| <img src="https://user-images.githubusercontent.com/79021544/220135921-ff58a10b-e621-4d6a-9906-3598e07d9268.png" width="100"> | Variable | [Variable 파일 바로가기](#) |
 <br>
 
 ## 설계 목표
