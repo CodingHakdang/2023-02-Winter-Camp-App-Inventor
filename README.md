@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day1/day1.md">1일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <a href="#">2일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day2/day2.md">2일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day3/day3.md">3일차</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
@@ -54,7 +54,7 @@
 #### [1일차 (1-2차시)](./lectures/day1/day1.md)
 - 변수 이해하기
 - 앱인벤터 사용법 익히기 
-#### 2일차 (3-4차시)
+#### [2일차 (3-4차시)](./lectures/day2/day2.md)
 - 반복문과 조건문 이해하기
 - 앱 따라하기 기초 
 #### [3일차 (5-6차시)](./lectures/day3/day3.md)
@@ -82,6 +82,10 @@
 | [<img src="https://user-images.githubusercontent.com/79021544/220135921-ff58a10b-e621-4d6a-9906-3598e07d9268.png" width="100">](./lectures/day1/Variable.md) <br><br> [파일 바로가기](./#) | [<img src="https://user-images.githubusercontent.com/79021544/220135927-b68464ea-d9db-459a-8e82-ca1e57288e09.png" width="100">](./lectures/day1/NowClock.md) <br><br> [파일 바로가기](./#) | [<img src="https://user-images.githubusercontent.com/79021544/220135932-1079cd2b-c5ec-4c3b-86ec-03d2c06468cc.png" width="100">](./lectures/day1/Tamagotchi.md) <br><br> [파일 바로가기](./#) | [<img src="https://user-images.githubusercontent.com/79021544/220135937-292e22c7-5ff4-44a2-9480-1100f9c58bf1.png" width="100">](./lectures/day1/MiniPiano.md) <br><br> [파일 바로가기](./#) |
 
 <h3>2일차</h3>
+
+|                                                                                업앤다운                                                                                 |                                                                               구구단                                                                               |                                                                                투두리스트                                                                                 |                                                                                  악어이빨 게임                                                                                   |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://user-images.githubusercontent.com/108293826/222973557-7822fc48-9ea1-4452-856a-b4d9861c7156.png" width="100">](./lectures/day2/UpAndDown.md) <br><br> [파일 바로가기](./#) | [<img src="https://user-images.githubusercontent.com/108293826/222973584-e028afee-f0ee-47b2-ab88-b90853b9f6e1.png" width="100">](./lectures/day2/MultiplicationTable.md) <br><br> [파일 바로가기](./#) | [<img src="https://user-images.githubusercontent.com/108293826/222973350-293d2709-5b1a-4fa2-988b-05aae159f6a7.png" width="100">](./lectures/day2/ToDoList.md) <br><br> [파일 바로가기](./#) | [<img src="https://user-images.githubusercontent.com/108293826/222973631-7ef6339c-5b8c-44fe-8c6e-f121ce9b9b4f.png" width="100">](./lectures/day2/CrocodileTeeth.md) <br><br> [파일 바로가기](./#) |
 
 <h3>3일차</h3>
 
