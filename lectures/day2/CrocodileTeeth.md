@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |    이름    |             링크              |
 | :---------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------: |
-| <img src="https://user-images.githubusercontent.com/108293826/222973631-7ef6339c-5b8c-44fe-8c6e-f121ce9b9b4f.png" width="100"> | CrocodileTeeth | [MultiplicationTable 파일 바로가기](#) |
+| <img src="https://user-images.githubusercontent.com/108293826/222973631-7ef6339c-5b8c-44fe-8c6e-f121ce9b9b4f.png" width="100"> | CrocodileTeeth | [CrocodileTeeth 파일 바로가기](#) |
 
 <br>
 
