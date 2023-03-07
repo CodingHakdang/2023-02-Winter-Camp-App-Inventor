@@ -36,8 +36,13 @@
 
 ## Src
 
-없음
-
+|    FileName    | Description  | Extenstion |
+| :------------: | :----------: | :--------: |
+| IconCrocodile.png  |  앱 아이콘   |    png     |
+|    UpTeeth.png    |  위 이빨   |    png     |
+|    DownTeeth.png    |   아래 이빨    |    png     |
+|  FirstScreen.png  | 첫 번째 스크린 배경 |    png     |
+| FinalScreen.png  |      마지막 스크린 배경      |    png     |
 
 <br>
 
