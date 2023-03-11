@@ -10,13 +10,13 @@
 
 <br>
 
-## Description
+## 설명
 
 사용자가 입력한 값을 화면에 보여주는 앱
 
 <br>
 
-## Event
+## 이벤트
 
 ```
 ⏹ Button Event
@@ -27,18 +27,18 @@
 
 <br>
 
-## Src
+## 소스 
 
 X
 
 <br>
 
-## Mentor
+## 멘토
 
 링크 추후 추가
 
 <br>
 
-## Menti
+## 멘티
 
 링크 추후 추가
