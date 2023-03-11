@@ -12,13 +12,13 @@
 
 <br>
 
-## Description
+## 설명
 
 현재 날짜와 시간을 알려주는 앱
 
 <br>
 
-## Event
+## 이벤트
 
 ```
 📡 Sensor Event
@@ -29,7 +29,7 @@
 
 <br>
 
-## Src
+## 소스 파일
 |    FileName    | Description  | Extenstion |
 | :------------: | :----------: | :--------: |
 | NowClockImg.png  |  꾸미기용 시계   |    png     |
@@ -37,12 +37,12 @@
 
 <br>
 
-## Mentor
+## 멘토
 
 링크 추후 추가
 
 <br>
 
-## Menti
+## 멘티
 
 링크 추후 추가
