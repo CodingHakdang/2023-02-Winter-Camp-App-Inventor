@@ -61,7 +61,7 @@
 
 |      FileName      | Description | Extenstion |
 | :----------------: | :---------: | :--------: |
-| IconTamagotchi.png |  앱아이콘   |    png     |
+| IconTamagotchi.png |  앱 아이콘   |    png     |
 |   Background.png   |    배경     |    png     |
 |  SleepButton.png   | 잠자기 버튼 |    png     |
 |   PlayButton.png   |  놀기 버튼  |    png     |
