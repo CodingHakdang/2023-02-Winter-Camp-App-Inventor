@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/README.md">메인</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <a href="#">2일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <a href="#">3일차</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day2/day2.md">2일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day3/day3.md">3일차</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 목차
