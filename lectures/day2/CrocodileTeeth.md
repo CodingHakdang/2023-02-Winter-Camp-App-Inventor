@@ -38,7 +38,7 @@
 > 스크린을 닫고 Screen1을 새로 화면에 띄운다.
 
 ```
-📡 Sensor Event(2)
+📡 Sensor Event(1)
 ```
 
 > **전역변수 설정** \
@@ -54,7 +54,7 @@
 *Screen 2*
 
 ```
-📡 Sensor Event
+📡 Sensor Event(3)
 ```
 
 > **전역변수의 값이 같을 때** \
