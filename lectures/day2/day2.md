@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/README.md">메인</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/e161f09f46aa9534b8fe8104211c0f503d52ad3b/lectures/day1/day1.md">1일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day1/day1.md">1일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day3/day3.md">3일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 </p>
 
