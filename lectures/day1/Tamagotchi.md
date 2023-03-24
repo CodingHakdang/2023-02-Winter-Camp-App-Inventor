@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |    이름    |             링크              |
 | :---------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------: |
-| <img src="https://user-images.githubusercontent.com/79021544/220135932-1079cd2b-c5ec-4c3b-86ec-03d2c06468cc.png" width="100"> | Tamagotchi | [Tamagotchi 파일 바로가기](https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/tree/master/day1/Tamagotchi) |
+| <img src="https://user-images.githubusercontent.com/79021544/220135932-1079cd2b-c5ec-4c3b-86ec-03d2c06468cc.png" width="100"> | Tamagotchi | [Tamagotchi 파일 바로가기](https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/tree/master/day1/Tamagotchi) |
 
 <br>
 
@@ -71,10 +71,10 @@
 
 ## 멘토
 
-https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/Tamagotchi/Mentor_Tamagotchi.aia
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day1/Tamagotchi/Mentor_Tamagotchi.aia
 
 <br>
 
 ## 멘티
 
-https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/Tamagotchi/Menti_Tamagotchi.aia
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day1/Tamagotchi/Menti_Tamagotchi.aia
