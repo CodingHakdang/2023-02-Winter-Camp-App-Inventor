@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |    이름    |             링크              |
 | :---------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------: |
-| <img src="https://user-images.githubusercontent.com/108293826/222973631-7ef6339c-5b8c-44fe-8c6e-f121ce9b9b4f.png" width="100"> | CrocodileTeeth | [CrocodileTeeth 파일 바로가기](#) |
+| <img src="https://user-images.githubusercontent.com/108293826/222973631-7ef6339c-5b8c-44fe-8c6e-f121ce9b9b4f.png" width="100"> | CrocodileTeeth | [CrocodileTeeth 파일 바로가기](https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/tree/master/day2/CrocodileTeeth) |
 
 <br>
 
@@ -12,13 +12,13 @@
 
 <br>
 
-## Description
+## 설명 
 
 컴퓨터가 1-10까지의 수 중 임의의 숫자를 선택하고, 사용자가 그 숫자버튼을 누르면 악어입이 닫히며 게임이 종료된다.
 
 <br>
 
-## Event
+## 이벤트 
 
 *Screen 1*
 
@@ -61,7 +61,7 @@
 > 버튼의 번호와 전역변수의 값이 같을 경우, 스크린을 이동하여 Screen2를 화면에 띄운다. 
 <br>
 
-## Src
+## 소스 파일 
 
 |    FileName    | Description  | Extenstion |
 | :------------: | :----------: | :--------: |
@@ -73,12 +73,12 @@
 
 <br>
 
-## Mentor
+## 멘토 
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day2/CrocodileTeeth/Mentor_CrocodileTeeth.aia
 
 <br>
 
-## Menti
+## 멘티 
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day2/CrocodileTeeth/Menti_CrocodileTeeth.aia
