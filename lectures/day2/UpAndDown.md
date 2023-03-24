@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |    이름    |             링크              |
 | :---------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------: |
-| <img src="https://user-images.githubusercontent.com/108293826/222973557-7822fc48-9ea1-4452-856a-b4d9861c7156.png" width="100"> | UpAndDown | [UpAndDown 파일 바로가기](#) |
+| <img src="https://user-images.githubusercontent.com/108293826/222973557-7822fc48-9ea1-4452-856a-b4d9861c7156.png" width="100"> | UpAndDown | [UpAndDown 파일 바로가기](https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/tree/master/day2/UpAndDown) |
 
 <br>
 
@@ -13,13 +13,13 @@
 
 <br>
 
-## Description
+## 설명
 
 컴퓨터가 임의의 숫자를 정하고 사용자가 숫자를 입력하여 임의의 숫자보다 높으면 ‘down’을 출력, 낮으면 ‘up’을 출력, 같으면 ‘정답’을 출력한다.
 
 <br>
 
-## Event
+## 이벤트
 
 ```
 ⏹ Button Event(1)
@@ -37,19 +37,23 @@
 > 랜덤 변수의 값을 바꿔준다.
 <br>
 
-## Src
+## 소스 파일
 
-없음
+X
 
-
-<br>
-
-## Mentor
-
-(링크추가)
 
 <br>
 
-## Menti
+## 멘토
 
-(링크추가)
+https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day2/UpAndDown/Mentor_UpAndDown.aia
+
+<br>
+
+## 멘
+
+https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day2/UpAndDown/Menti_UpAndDown.aia
+
+
+https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day2/UpAndDown/Menti_UpAndDown_onlyDesinger.aia
+
