@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |    이름    |             링크              |
 | :---------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------: |
-| <img src="https://user-images.githubusercontent.com/110290146/222441652-b235d845-a2a3-41ed-ac2c-2d536dfd1445.png" width="100"> | ShootingGame | [ShootingGame 파일 바로가기](#) |
+| <img src="https://user-images.githubusercontent.com/110290146/222441652-b235d845-a2a3-41ed-ac2c-2d536dfd1445.png" width="100"> | ShootingGame | [ShootingGame 파일 바로가기](https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/tree/master/day3/ShootingGame) |
 
 <br>
 
@@ -13,13 +13,13 @@
 
 <br>
 
-## Description
+## 설명 
 
 로켓을 움직여 외계인을 공격하는 게임
 
 <br>
 
-## Event
+## 이벤트 
 
 *Screen 1*
 
@@ -68,7 +68,7 @@
 
 <br>
 
-## Src
+## 소스 파일 
 
 |       FileName      |  Description | Extenstion |
 |  :----------------: |  :---------: | :--------: |
@@ -80,12 +80,12 @@
 
 <br>
 
-## Mentor
+## 멘토 
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day3/ShootingGame/Mentor_ShootingGame.aia
 
 <br>
 
-## Menti
+## 멘티 
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day3/ShootingGame/Menti_ShootingGame.aia
