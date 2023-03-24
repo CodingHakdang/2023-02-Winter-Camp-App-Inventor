@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |    이름    |             링크              |
 | :---------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------: |
-| <img src="https://user-images.githubusercontent.com/110290146/222441196-8d3db61c-85fd-4707-872f-6db9d270df49.png" width="100"> | Sketch | [Sketch 파일 바로가기](#) |
+| <img src="https://user-images.githubusercontent.com/110290146/222441196-8d3db61c-85fd-4707-872f-6db9d270df49.png" width="100"> | Sketch | [Sketch 파일 바로가기](https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/tree/master/day3/Sketch) |
 
 <br>
 
@@ -13,14 +13,14 @@
 
 <br>
 
-## Description
+## 설명 
 
 터치를 통해 화면에 그림을 그릴 수 있는 앱 \
 선의 색상과 굵기를 조절할 수 있다.
 
 <br>
 
-## Event
+## 이벤트 
 
 ```
 ⏹ Button Event
@@ -41,7 +41,7 @@
 
 <br>
 
-## Src
+## 소스 파일
 
 |      FileName      |   Description  | Extenstion |
 | :----------------: |   :---------:  | :--------: |
@@ -51,12 +51,12 @@
 
 <br>
 
-## Mentor
+## 멘토 
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day3/Sketch/Mentor_Sketch.aia
 
 <br>
 
-## Menti
+## 멘티 
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day3/Sketch/Menti_Sketch.aia
