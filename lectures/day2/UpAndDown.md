@@ -50,7 +50,7 @@ https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/
 
 <br>
 
-## 멘
+## 멘티
 
 https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day2/UpAndDown/Menti_UpAndDown.aia
 
