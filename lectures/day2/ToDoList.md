@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |    이름    |             링크              |
 | :---------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------: |
-| <img src="https://user-images.githubusercontent.com/108293826/222973350-293d2709-5b1a-4fa2-988b-05aae159f6a7.png" width="100"> | ToDoList | [ToDoList 파일 바로가기](#) |
+| <img src="https://user-images.githubusercontent.com/108293826/222973350-293d2709-5b1a-4fa2-988b-05aae159f6a7.png" width="100"> | ToDoList | [ToDoList 파일 바로가기](https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/tree/master/day2/ToDoList) |
 
 <br>
 
@@ -12,13 +12,13 @@
 
 <br>
 
-## Description
+## 설명 
 
 할 일을 입력하고 추가를 누르면 항목이 <할 일> 부분으로 이동하고, 할 일 부분에서 특정 일을 클릭하면 항목이 <완료> 부분으로 이동한다.
 
 <br>
 
-## Event
+## 이벤트 
 
 ```
 ⏹ Button Event
@@ -38,7 +38,7 @@
 > 목록에서 해당목록을 삭제한다.
 <br>
 
-## Src
+## 소스 파일 
 
 |    FileName    | Description  | Extenstion |
 | :------------: | :----------: | :--------: |
@@ -46,12 +46,12 @@
 
 <br>
 
-## Mentor
+## 멘토
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day2/ToDoList/Mentor_ToDoList.aia
 
 <br>
 
-## Menti
+## 멘티
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day2/ToDoList/Menti_ToDoList.aia
