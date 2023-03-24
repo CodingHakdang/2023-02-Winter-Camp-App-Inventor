@@ -34,11 +34,10 @@ X
 <br>
 
 ## 멘토
-
-링크 추후 추가
+https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/Variable/Mentor_Variable.aia
 
 <br>
 
 ## 멘티
 
-링크 추후 추가
+https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/Variable/Menti_Variable.aia
