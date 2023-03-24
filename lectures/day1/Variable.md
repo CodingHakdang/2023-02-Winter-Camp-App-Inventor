@@ -2,7 +2,7 @@
 
 |    이미지                                                                                                                           |     이름     |  링크                 |
 | :---------------------------------------------------------------------------------------------------------------------------: | :------: | :---------------: |
-| <img src="https://user-images.githubusercontent.com/79021544/220135921-ff58a10b-e621-4d6a-9906-3598e07d9268.png" width="100"> | Variable | [Variable 파일 바로가기](https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/tree/master/day1/Variable) |
+| <img src="https://user-images.githubusercontent.com/79021544/220135921-ff58a10b-e621-4d6a-9906-3598e07d9268.png" width="100"> | Variable | [Variable 파일 바로가기](https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/tree/master/day1/Variable) |
 <br>
 
 ## 설계 목표
@@ -34,10 +34,10 @@ X
 <br>
 
 ## 멘토
-https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/Variable/Mentor_Variable.aia
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day1/Variable/Mentor_Variable.aia
 
 <br>
 
 ## 멘티
 
-https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/Variable/Menti_Variable.aia
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day1/Variable/Menti_Variable.aia
