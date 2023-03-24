@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |   이름    |        링크        |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------: | :----------------: |
-| <img src="https://user-images.githubusercontent.com/110290146/222435729-aeb23e06-dbfe-453a-adff-62ff4b65095e.png" width="100"> | TTSDonation | [TTSDonation 파일 바로가기](#) |
+| <img src="https://user-images.githubusercontent.com/110290146/222435729-aeb23e06-dbfe-453a-adff-62ff4b65095e.png" width="100"> | TTSDonation | [TTSDonation 파일 바로가기](https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/tree/master/day3/TTSDonation) |
 <br>
 
 ## 설계 목표
@@ -11,14 +11,14 @@ TTS 음성변환 컴포넌트 사용법을 학습한다.
 
 <br>
 
-## Description
+## 설명 
 
 인터넷 방송과 같이 후원 창을 표시할 수 있는 앱 \
 금액에 따라 이모티콘이 다르게 나타난다. 
 
 <br>
 
-## Event
+## 이벤트 
 
 
 *Screen 1*
@@ -61,7 +61,7 @@ TTS 음성변환 컴포넌트 사용법을 학습한다.
 
 <br>
 
-## Src
+## 소스 파일 
 
 |      FileName     |   Description  | Extenstion |
 |   :------------:  |  :----------:  | :--------: |
@@ -76,12 +76,12 @@ TTS 음성변환 컴포넌트 사용법을 학습한다.
 
 <br>
 
-## Mentor
+## 멘토 
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day3/TTSDonation/Mentor_TTSDonation.aia
 
 <br>
 
-## Menti
+## 멘티 
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day3/TTSDonation/Menti_TTSDonation.aia
