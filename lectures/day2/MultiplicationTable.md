@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |    이름    |             링크              |
 | :---------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------: |
-| <img src="https://user-images.githubusercontent.com/108293826/226612172-4298051c-43c1-4b0f-b926-f9414543afd1.png" width="100"> | MultiplicationTable | [MultiplicationTable 파일 바로가기](#) |
+| <img src="https://user-images.githubusercontent.com/108293826/226612172-4298051c-43c1-4b0f-b926-f9414543afd1.png" width="100"> | MultiplicationTable | [MultiplicationTable 파일 바로가기](https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/tree/master/day2/MultiplicationTable) |
 
 <br>
 
@@ -13,13 +13,13 @@
 
 <br>
 
-## Description
+## 설명
 
 1-9 중 원하는 단수를 입력하면, 다른 스크린에서 해당 단수를 출력한다.
 
 <br>
 
-## Event
+## 이벤트
 
 *Screen 1*
 
@@ -49,7 +49,7 @@
 > Screen1에서 받은 매개변수와 반복문에서 초기화한 number를 곱하여 결과값을 출력한다.
 <br>
 
-## Src
+## 소스 
 
 |    FileName    | Description  | Extenstion |
 | :------------: | :----------: | :--------: |
@@ -57,12 +57,14 @@
 
 <br>
 
-## Mentor
+## 멘토
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day2/MultiplicationTable/Mentor_MultiplicationTable.aia
 
 <br>
 
-## Menti
+## 멘티
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day2/MultiplicationTable/Menti_MultiplicationTable.aia
+
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day2/MultiplicationTable/Menti_MultiplicationTable_onlyDesigner.aia
