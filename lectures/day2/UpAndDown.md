@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |    이름    |             링크              |
 | :---------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------: |
-| <img src="https://user-images.githubusercontent.com/108293826/222973557-7822fc48-9ea1-4452-856a-b4d9861c7156.png" width="100"> | UpAndDown | [UpAndDown 파일 바로가기](https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/tree/master/day2/UpAndDown) |
+| <img src="https://user-images.githubusercontent.com/108293826/222973557-7822fc48-9ea1-4452-856a-b4d9861c7156.png" width="100"> | UpAndDown | [UpAndDown 파일 바로가기](https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/tree/master/day2/UpAndDown) |
 
 <br>
 
@@ -46,14 +46,12 @@ X
 
 ## 멘토
 
-https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day2/UpAndDown/Mentor_UpAndDown.aia
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day2/UpAndDown/Mentor_UpAndDown.aia
 
 <br>
 
 ## 멘티
 
-https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day2/UpAndDown/Menti_UpAndDown.aia
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day2/UpAndDown/Menti_UpAndDown.aia
 
-
-https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day2/UpAndDown/Menti_UpAndDown_onlyDesinger.aia
-
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day2/UpAndDown/Menti_UpAndDown_onlyDesinger.aia
