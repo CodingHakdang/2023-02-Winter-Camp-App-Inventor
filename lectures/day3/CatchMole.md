@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |    이름    |             링크              |
 | :---------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------------------------: |
-| <img src="https://user-images.githubusercontent.com/110290146/222441364-9a8d40a1-2200-41ee-accf-bc93963ecc92.png" width="100"> | CatchMole | [CatchMole 파일 바로가기](#) |
+| <img src="https://user-images.githubusercontent.com/110290146/222441364-9a8d40a1-2200-41ee-accf-bc93963ecc92.png" width="100"> | CatchMole | [CatchMole 파일 바로가기](https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/tree/master/day3/CatchMole) |
 
 <br>
 
@@ -13,13 +13,13 @@
 
 <br>
 
-## Description
+## 설명 
 
 화면을 터치하여 두더지를 잡는 게임
 
 <br>
 
-## Event
+## 이벤트 
 
 *Screen 1*
 
@@ -64,7 +64,7 @@
 
 <br>
 
-## Src
+## 소스 파일 
 
 |         FileName        | Description | Extenstion |
 |    :----------------:   | :---------: | :--------: |
@@ -74,12 +74,12 @@
 
 <br>
 
-## Mentor
+## 멘토 
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day3/CatchMole/Mento_CatchMole.aia
 
 <br>
 
-## Menti
+## 멘티 
 
-(링크추가)
+https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor-aia/blob/master/day3/CatchMole/Menti_CatchMole.aia
