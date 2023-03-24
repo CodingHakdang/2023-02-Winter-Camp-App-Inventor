@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |   이름    |        링크        |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------: | :----------------: |
-| <img src="https://user-images.githubusercontent.com/79021544/220135937-292e22c7-5ff4-44a2-9480-1100f9c58bf1.png" width="100"> | MiniPiano | [MiniPiano 파일 바로가기](https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/tree/master/day1/Variable) |
+| <img src="https://user-images.githubusercontent.com/79021544/220135937-292e22c7-5ff4-44a2-9480-1100f9c58bf1.png" width="100"> | MiniPiano | [MiniPiano 파일 바로가기](https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/tree/master/day1/MiniPiano) |
 <br>
 
 ## 설계 목표
@@ -52,10 +52,9 @@
 <br>
 
 ## 멘토
-
-https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/Variable/Mentor_Variable.aia
+https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/MiniPiano/Mentor_MiniPiano.aia
 
 <br>
 
 ## 멘티
-https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/Variable/Menti_Variable.aia
+https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/MiniPiano/Menti_MiniPiano.aia
