@@ -2,7 +2,7 @@
 
 |                                                            이미지                                                             |   이름   |            링크             |
 | :---------------------------------------------------------------------------------------------------------------------------: | :------: | :-------------------------: |
-| <img src="https://user-images.githubusercontent.com/79021544/220135927-b68464ea-d9db-459a-8e82-ca1e57288e09.png" width="100"> | NowClock | [NowClock 파일 바로가기](#) |
+| <img src="https://user-images.githubusercontent.com/79021544/220135927-b68464ea-d9db-459a-8e82-ca1e57288e09.png" width="100"> | NowClock | [NowClock 파일 바로가기](https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/tree/master/day1/NowClock) |
 
 <br>
 
@@ -39,10 +39,10 @@
 
 ## 멘토
 
-링크 추후 추가
+https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/NowClock/Mentor_NowClock.aia
 
 <br>
 
 ## 멘티
 
-링크 추후 추가
+https://github.com/CodingHakdang/-1-KRIS-Winter-Camp-2023-App-Inventor-aia/blob/master/day1/NowClock/Menti_NowClock.aia
