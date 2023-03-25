@@ -1,12 +1,12 @@
-# 1일 차
+# 1일차
 <p align="center">
    <img src="https://user-images.githubusercontent.com/79021544/220138575-d8afd2aa-f487-4b62-a720-6bfd32ffd47b.png" width="70%">
 </p>
 
 <p align="center">
   <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/README.md">메인</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day2/day2.md">2일 차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day3/day3.md">3일 차</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day2/day2.md">2일차</a>&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CodingHakdang/2023-02-Winter-Camp-App-Inventor/blob/main/lectures/day3/day3.md">3일차</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 목차
