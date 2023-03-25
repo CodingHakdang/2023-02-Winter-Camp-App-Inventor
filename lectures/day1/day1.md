@@ -1,4 +1,4 @@
-# 1일차
+# 1일 차
 <p align="center">
    <img src="https://user-images.githubusercontent.com/79021544/220138575-d8afd2aa-f487-4b62-a720-6bfd32ffd47b.png" width="70%">
 </p>
